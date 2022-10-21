@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Frontend-Mentor-Solution-Interactive-Rating-Component/static/css/main.e6c13ad2.css",
-    "main.js": "/Frontend-Mentor-Solution-Interactive-Rating-Component/static/js/main.aa1e4313.js",
+    "main.js": "/Frontend-Mentor-Solution-Interactive-Rating-Component/static/js/main.f373a7d4.js",
     "static/js/787.28cb0dcd.chunk.js": "/Frontend-Mentor-Solution-Interactive-Rating-Component/static/js/787.28cb0dcd.chunk.js",
     "static/media/illustration-thank-you.svg": "/Frontend-Mentor-Solution-Interactive-Rating-Component/static/media/illustration-thank-you.d74a66b551b99ae110b5362ed63106bf.svg",
     "index.html": "/Frontend-Mentor-Solution-Interactive-Rating-Component/index.html",
     "static/media/icon-star.svg": "/Frontend-Mentor-Solution-Interactive-Rating-Component/static/media/icon-star.12766a8d207af861a70f92500634c8be.svg",
     "main.e6c13ad2.css.map": "/Frontend-Mentor-Solution-Interactive-Rating-Component/static/css/main.e6c13ad2.css.map",
-    "main.aa1e4313.js.map": "/Frontend-Mentor-Solution-Interactive-Rating-Component/static/js/main.aa1e4313.js.map",
+    "main.f373a7d4.js.map": "/Frontend-Mentor-Solution-Interactive-Rating-Component/static/js/main.f373a7d4.js.map",
     "787.28cb0dcd.chunk.js.map": "/Frontend-Mentor-Solution-Interactive-Rating-Component/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.aa1e4313.js"
+    "static/js/main.f373a7d4.js"
   ]
 }
