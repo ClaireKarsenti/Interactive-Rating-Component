@@ -22,7 +22,7 @@ function App() {
     type: '',
   });
 
-  const ratingsOnSubmit: any = (e: any) => {
+  const ratingsOnSubmit: any = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     if (!selectedInput) {
       // Display alert
@@ -39,7 +39,7 @@ function App() {
   };
 
   //Selecting a value
-  const clickInput: any = (e: any) => {
+  const clickInput: any = (e: React.ChangeEvent<HTMLInputElement>) => {
     setSelectedInput(e.currentTarget.value);
   };
 
