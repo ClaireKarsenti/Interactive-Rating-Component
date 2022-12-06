@@ -5,7 +5,7 @@ import { Container } from '../styles/Alert.style';
 
 const Alert: FC<AlertType> = ({ type, msg, removeAlert }) => {
   useEffect(() => {
-    const timeout = setTimeout(() => {
+    const timeout: number = window.setTimeout(() => {
       removeAlert();
     }, 2500);
     return () => clearTimeout(timeout);

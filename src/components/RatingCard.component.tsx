@@ -39,7 +39,7 @@ const RatingCard: FC<RatingCardType> = ({
       </p>
       <form onSubmit={ratingsOnSubmit}>
         <fieldset>
-          {numbers.map((item) => {
+          {numbers?.map((item) => {
             const { id, number } = item;
             return (
               <div className="rating-item" key={number}>
